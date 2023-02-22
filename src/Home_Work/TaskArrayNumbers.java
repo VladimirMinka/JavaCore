@@ -72,5 +72,4 @@ public class TaskArrayNumbers {
         }
         System.out.print(Arrays.toString(array));
     }
-
 }

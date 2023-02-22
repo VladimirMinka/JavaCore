@@ -28,12 +28,9 @@ public class TaskArraysString {
         int[] nums = {1, 45, 2, 46, 67, 90, 7, 98, 100};
         Arrays.sort(nums);
         System.out.println(Arrays.toString(nums));
-
         // 5 вывести все города большими буквами*/
-
         String stringCity = Arrays.toString(city);
         System.out.println(stringCity.toUpperCase());
-
     }
 }
 
