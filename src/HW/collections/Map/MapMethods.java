@@ -1,4 +1,4 @@
-package HW.Collections.Map;
+package HW.collections.Map;
 
 import java.util.*;
 

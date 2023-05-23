@@ -1,4 +1,4 @@
-package HW.Collections.Set;
+package HW.collections.Set;
 
 import java.util.Objects;
 

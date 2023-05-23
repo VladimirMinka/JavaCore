@@ -1,4 +1,4 @@
-package HW.Collections.ArrayListLinkedList;
+package HW.collections.ArrayListLinkedList;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

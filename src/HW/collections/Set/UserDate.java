@@ -1,6 +1,4 @@
-package HW.Collections.Set;
-
-import Lesson.Collection.Set.Employ;
+package HW.collections.Set;
 
 import java.util.*;
 

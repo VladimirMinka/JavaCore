@@ -1,4 +1,4 @@
-package HW.Comment;
+package HW.comment;
 
 public class BaseDate {
     //объект комментарии

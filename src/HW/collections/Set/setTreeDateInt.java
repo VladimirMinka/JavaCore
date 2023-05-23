@@ -1,7 +1,6 @@
-package HW.Collections.Set;
+package HW.collections.Set;
 
 import java.util.Iterator;
-import java.util.Scanner;
 import java.util.SortedSet;
 import java.util.TreeSet;
 

@@ -1,4 +1,4 @@
-package HW.Comment;
+package HW.comment;
 
 public class Comment {
     private int days;
